@@ -23,7 +23,7 @@ You can change and delete init password
 
 </br>
 
-#### Links
+# Links
 
 * Config repo: https://github.com/aslamahemad/argocd-app-config
 
